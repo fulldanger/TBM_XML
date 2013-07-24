@@ -10,3 +10,6 @@ c:\users\fulldanger\documents\visual studio 2012\Projects\WindowsFormsApplicatio
 C:\Users\MarceloP\Documents\Visual Studio 2012\Projects\XML project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 C:\Users\MarceloP\Documents\Visual Studio 2012\Projects\XML project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\MarceloP\Documents\Visual Studio 2012\Projects\XML project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FullDanger\Documents\GitHub\TBM_XML\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FullDanger\Documents\GitHub\TBM_XML\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FullDanger\Documents\GitHub\TBM_XML\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

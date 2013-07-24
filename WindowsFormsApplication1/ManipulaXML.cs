@@ -56,7 +56,7 @@ namespace WindowsFormsApplication1
             VGlobal.TamTotProvisao = 0;
             VGlobal.TamTotCorretagem = 0;
             #endregion
-
+            //Teste Github
             try
             {
                 #region Lê XML e faz levantamento de elementos
